@@ -177,3 +177,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 >>>>>>> 53b688b8bc952b1714acda6f3da607348f868121
+runs
+yolov8x.pt
+models
