@@ -180,3 +180,4 @@ cython_debug/
 runs
 yolov8x.pt
 models
+output_videos
